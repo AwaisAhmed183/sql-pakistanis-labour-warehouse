@@ -1,0 +1,3 @@
+# Tell GitHub to count the SQL files in the Languages bar.
+# GitHub treats SQL as "data" by default, so it hides it and the bar shows only Python + Shell.
+*.sql linguist-detectable=true
