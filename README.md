@@ -1,4 +1,5 @@
 # Pakistan Labour Data Warehouse
+**Live dashboard:** https://sql-pakistanis-labour-warehouse-jnylqffa6jrsjzlkwzmqmk.streamlit.app/
 
 A small SQL project built on real, published data about work in Pakistan.
 It uses two public sources: World Bank yearly numbers (1991–2025) and the
