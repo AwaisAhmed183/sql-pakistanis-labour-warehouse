@@ -12,9 +12,7 @@ Run it from the project root:
     pip install streamlit pandas
     streamlit run app.py
 
-Putting it on the internet (Streamlit Cloud) is a separate step for
-later, after this project is on GitHub. This file only runs on your
-own computer.
+It is deployed on Streamlit Cloud — the live dashboard is at https://sql-pakistan-labour-warehouse.streamlit.app/. This file also runs on your own computer.
 """
 
 import pandas as pd
@@ -172,4 +170,9 @@ st.write(
     "Sources: World Bank Open Data (ILO modelled estimates) and the "
     "Pakistan Bureau of Statistics Labour Force Survey 2024-25. Full "
     "detail is in README.md and data/SOURCES.md."
+)
+
+st.divider()
+st.markdown(
+    "Source code and SQL: [github.com/AwaisAhmed183/sql-pakistanis-labour-warehouse](https://github.com/AwaisAhmed183/sql-pakistanis-labour-warehouse)"
 )
