@@ -1,0 +1,27 @@
+age_group,framework,year,unemployment_total,unemployment_male,unemployment_female,source_report,source_table,source_url
+10-14,19th ICLS,2024-25,4.5,5.8,0.7,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-24,19th ICLS,2024-25,12.8,12.5,14.0,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+25-34,19th ICLS,2024-25,8.3,5.8,14.9,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+35-44,19th ICLS,2024-25,4.0,2.8,7.5,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+45-54,19th ICLS,2024-25,3.3,2.5,5.8,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+55-64,19th ICLS,2024-25,4.2,4.4,3.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+65+,19th ICLS,2024-25,0.8,0.9,0.0,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.4,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+10-14,13th ICLS,2020-21,3.9,5.1,2.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+10-14,13th ICLS,2024-25,3.9,5.1,0.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-24,13th ICLS,2020-21,11.1,10.0,14.4,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-24,13th ICLS,2024-25,12.5,12.3,13.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+25-34,13th ICLS,2020-21,7.3,5.4,13.3,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+25-34,13th ICLS,2024-25,8.1,5.8,14.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+35-44,13th ICLS,2020-21,2.9,2.9,2.9,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+35-44,13th ICLS,2024-25,4.0,2.8,7.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+45-54,13th ICLS,2020-21,3.9,4.1,3.3,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+45-54,13th ICLS,2024-25,3.2,2.5,5.4,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+55-64,13th ICLS,2020-21,2.8,2.6,3.7,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+55-64,13th ICLS,2024-25,4.0,4.3,2.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+65+,13th ICLS,2020-21,0.9,0.9,0.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+65+,13th ICLS,2024-25,0.7,0.8,0.0,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.5,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-29,19th ICLS,2024-25,11.8,10.7,15.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.6,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-29,13th ICLS,2020-21,10.3,8.7,15.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.6,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-29,13th ICLS,2024-25,11.5,10.5,14.3,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.6,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-64,13th ICLS,2020-21,6.5,5.6,9.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.6,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+15-64,13th ICLS,2024-25,7.1,6.1,10.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 9.6,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf

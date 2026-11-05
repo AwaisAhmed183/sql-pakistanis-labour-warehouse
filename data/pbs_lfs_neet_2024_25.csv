@@ -1,0 +1,31 @@
+province,region,year,neet_total,neet_male,neet_female,source_report,source_table,source_url
+Pakistan,All Areas,2020-21,32.5,10.5,55.3,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Pakistan,All Areas,2024-25,28.4,13.0,45.4,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Pakistan,Rural,2020-21,33.1,9.8,56.7,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Pakistan,Rural,2024-25,28.7,12.0,47.0,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Pakistan,Urban,2020-21,31.4,11.7,52.9,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Pakistan,Urban,2024-25,28.0,14.5,42.9,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+KP,All Areas,2020-21,38.0,9.8,68.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+KP,All Areas,2024-25,32.7,10.5,57.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+KP,Rural,2020-21,38.8,9.8,69.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+KP,Rural,2024-25,33.9,10.4,59.9,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+KP,Urban,2020-21,34.1,9.9,62.3,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+KP,Urban,2024-25,26.8,11.1,45.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Punjab,All Areas,2020-21,28.3,10.4,46.0,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Punjab,All Areas,2024-25,24.8,12.6,37.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Punjab,Rural,2020-21,28.2,10.0,45.7,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Punjab,Rural,2024-25,23.5,11.4,36.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Punjab,Urban,2020-21,28.5,11.1,46.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Punjab,Urban,2024-25,26.6,14.3,39.8,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Sindh,All Areas,2020-21,36.2,10.3,64.9,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Sindh,All Areas,2024-25,32.0,14.7,51.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Sindh,Rural,2020-21,37.7,7.8,69.7,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Sindh,Rural,2024-25,34.3,13.9,58.2,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Sindh,Urban,2020-21,34.8,12.5,60.1,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Sindh,Urban,2024-25,30.2,15.4,46.5,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Balochistan,All Areas,2020-21,41.8,14.1,75.4,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Balochistan,All Areas,2024-25,36.0,17.9,60.5,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Balochistan,Rural,2020-21,42.1,13.3,77.0,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Balochistan,Rural,2024-25,38.1,18.8,63.5,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Balochistan,Urban,2020-21,41.0,15.8,71.6,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
+Balochistan,Urban,2024-25,31.5,16.1,53.8,"PBS Labour Force Survey 2024-25 (37th round, Sep 2025)",Table 8.8,https://www.pbs.gov.pk/wp-content/uploads/2020/07/LFS-2024-25-Annual-Report.pdf
