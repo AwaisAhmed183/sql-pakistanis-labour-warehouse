@@ -1,5 +1,5 @@
 # Pakistan Labour Data Warehouse
-**Live dashboard:** https://sql-pakistanis-labour-warehouse-jnylqffa6jrsjzlkwzmqmk.streamlit.app/
+**Live dashboard:** https://sql-pakistan-labour-warehouse.streamlit.app/
 
 A small SQL project built on real, published data about work in Pakistan.
 It uses two public sources: World Bank yearly numbers (1991–2025) and the
@@ -47,9 +47,7 @@ questions about jobs and unemployment in Pakistan.
   result from scratch. The database file itself is never saved in the
   project — it is rebuilt every time.
 - **A dashboard you can see.** `app.py` shows the same 10 findings as
-  charts and tables, drawn from the result files. It is a Streamlit app:
-  it runs on your own computer, and putting it on the internet is a
-  separate step for later.
+  charts and tables, drawn from the result files. It is a Streamlit app, live at https://sql-pakistan-labour-warehouse.streamlit.app/. It also runs on your own computer.
 - **A check that proves the numbers.** `verify.py` opens the finished
   database and checks the 7 headline numbers and the row counts. If any
   number is wrong, the build fails.
@@ -88,9 +86,7 @@ streamlit run app.py
 
 This opens the dashboard in your browser: the same 10 findings below,
 as charts and tables. Every chart is drawn from the files in `results/`.
-Putting the dashboard on the internet (Streamlit Cloud) is a separate
-step for later, after this project is on GitHub — nothing is deployed
-from here.
+The dashboard is live on Streamlit Cloud at https://sql-pakistan-labour-warehouse.streamlit.app/ — the same app, deployed from this repo.
 
 New to this project? Read `EXPLAIN.md` next. It explains every file and
 every query in plain words, and how to talk about each one in an
